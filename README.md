@@ -37,6 +37,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 ![NSG Allowed Inbound Malicious Flows](https://github.com/NATASHASAINI/CLOUD-SOC/assets/156629309/71e58e71-2201-46b6-b36a-539179f639b6)<br>
 ![Linux Syslog Auth Failures](https://github.com/NATASHASAINI/CLOUD-SOC/assets/156629309/da71ee3a-a8ef-41d7-b90b-59b95cee88f9)<br>
 ![MSSQL Auth Failures](https://github.com/NATASHASAINI/CLOUD-SOC/assets/156629309/34864593-d259-424a-964c-aef2d3ecc24b)<br>
+![Windows-rdp-auth-fail.json](https://github.com/NATASHASAINI/CLOUD-SOC/assets/156629309/b555bfb4-4bf8-420a-8939-c75e62c5d60a)<br>
 
 ## Metrics Before Hardening / Security Controls
 
