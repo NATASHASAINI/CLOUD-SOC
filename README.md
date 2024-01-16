@@ -1,4 +1,4 @@
-# Creating a SOC + Honeynet in Azure (Monitoring Live Traffic)
+# Configuring a SOC/ Honeynet in Azure (Monitoring Live Traffic)
 ![Cloud Honeynet / SOC ](https://github.com/NATASHASAINI/CLOUD-SOC/assets/156629309/34b61403-7c05-48e2-8b8c-951a226e265b)
 
 ## Introduction
